@@ -15,6 +15,4 @@ In my free time, I am developing Open-Source Software Projects, transforming ide
 
 > :loudspeaker: Check out [Open Argon](https://git.io/open-argon), my latest project for your Pi!
 
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kdevo&show_icons=true&theme=gotham&title_color=0097a7)](https://git.io/kdevo)
-
-
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kdevo&show_icons=true&theme=gotham&title_color=0097a7&hide_border=true&text_color=0097a7&bg_color=fffff&hide_title=true)](https://git.io/kdevo)
