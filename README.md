@@ -9,12 +9,12 @@ I am a passionate Software Engineer, Maker and Tech Enthusiast from Aachen.
 
 In my Bachelor Thesis ([available in German-only](https://kdevo.github.io/#bachelor-thesis)), I examined how well Ethereum can be integrated into existing business processes of the [FH Aachen - University of Applied Sciences](https://www.fh-aachen.de/).
 
-By the start of 2020, I extensively explored the data science field and I am fascinated by machine learning projects that improve human interaction. Currently, I am writing my Master Thesis and take a deep dive into the emerging field of *Reciprocal Recommender Systems* from a research and practical point of view. 
+By the start of 2020, I started to extensively explore the data science field and I am fascinated by machine learning projects that improve human interaction. Currently, I am writing my Master Thesis and take a deep dive into the [emerging field of *Reciprocal Recommender Systems*](https://arxiv.org/abs/2007.16120) from a research and practical point of view. 
 
-In my free time, I am developing Open-Source projects, Linux customizations, 3D printing techniques, Electronic stuff [and much more](https://kdevo.github.io/#kd)!
+In my free time, I am developing Open-Source Software Projects, transforming ideas to their physical representation by 3D printing, working on electronic stuff [and much more](https://kdevo.github.io/#kd)! I share the vision of a democratised and decentralized Web 3.0, the idea behind free software and I am a huge Arch fan!
 
 > :loudspeaker: Check out [Open Argon](https://git.io/open-argon), my latest project for your Pi!
 
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kdevo&show_icons=true&theme=gotham)](https://git.io/kdevo)
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kdevo&show_icons=true&theme=gotham&title_color=0097a7)](https://git.io/kdevo)
 
 
