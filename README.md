@@ -11,4 +11,4 @@ I recently finished my master's in [*Information Systems Engineering*](https://f
 
 In my free time, I am developing open-source software projects, transforming ideas to their physical representation by 3D printing, tinkering with electronic stuff [and more](https://kdevo.github.io/#kd)! I share the vision of a democratized and decentralized web 3.0, the idea behind free software and I am a huge [Arch](https://archlinux.org/) fan.
 
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kdevo&show_icons=true&theme=gotham&title_color=0097a7&hide_border=true&text_color=0097a7&bg_color=transparent&hide_title=true&count_private=true)](https://git.io/kdevo)
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kdevo&show_icons=true&theme=gotham&title_color=0097a7&hide_border=true&text_color=0097a7&bg_color=00000000&hide_title=true&count_private=true)](https://git.io/kdevo)
