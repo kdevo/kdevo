@@ -5,9 +5,9 @@
 
 I am a free-minded and passionate software engineer, tech enthusiast and maker from Aachen.
 
-In [my bachelor thesis](https://kdevo.github.io/#bachelor-thesis) from 2018, I examined how well [Ethereum](https://ethereum.org/) can be integrated into existing business processes of the [FH Aachen](https://www.fh-aachen.de/). 
+In [my bachelor thesis](https://kdevo.github.io/#bachelor-thesis) from 2018, I examined how well [Ethereum](https://ethereum.org/) can be integrated into existing business processes of the [FH Aachen](https://www.fh-aachen.de/).
 By the start of 2020, I extensively explored the data science field and got fascinated by machine learning projects that improve human interaction.
-I recently finished my master's in [*Information Systems Engineering*](https://fhac.de/ise). In my thesis, I took a deep dive into the emerging field of [*Reciprocal Recommender Systems*](https://arxiv.org/abs/2007.16120) from a research and practical point of view.
+I recently completed my Master of Engineering in [Information Systems Engineering](https://fhac.de/ise) where I took a deep dive into the emerging field of Reciprocal Recommender Systems (RRS) from a research and practical point of view. Bringing these views together, you can now fully [read my thesis online](https://kdevo.github.io/#master-thesis) and [experiment with Chaos](https://github.com/kdevo/chaos-rrs), a first of its kind framework – with the goal to enrich the RRS landscape with novel approaches for connecting humans.
 
 In my free time, I am developing open-source software projects, transforming ideas to their physical representation by 3D printing, tinkering with electronic stuff [and more](https://kdevo.github.io/#kd)! I share the vision of a democratized and decentralized web 3.0, the idea behind free software and I am a huge [Arch](https://archlinux.org/) fan.
 
