@@ -10,5 +10,3 @@ By the start of 2020, I extensively explored the data science field and got fasc
 I recently completed my Master of Engineering in [Information Systems Engineering](https://fhac.de/ise) where I took a deep dive into the emerging field of Reciprocal Recommender Systems (RRS) from a research and practical point of view. Bringing these views together, you can now fully [read my thesis online](https://kdevo.github.io/#master-thesis) and [experiment with Chaos](https://github.com/kdevo/chaos-rrs), a first of its kind framework – with the goal to enrich the RRS landscape with novel approaches for connecting humans.
 
 In my free time, I am developing open-source software projects, transforming ideas to their physical representation by 3D printing, tinkering with electronic stuff [and more](https://kdevo.github.io/#kd)! I love the idea behind free software and I am an [Arch](https://archlinux.org/) fan.
-
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=kdevo&show_icons=true&theme=gotham&title_color=0097a7&hide_border=true&text_color=0097a7&bg_color=00000000&hide_title=true&count_private=true)](https://git.io/kdevo)
