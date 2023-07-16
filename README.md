@@ -8,7 +8,7 @@ In [my bachelor thesis](https://kdevo.dev/#bachelor-thesis) from 2018, I examine
 By the start of 2020, I extensively explored the data science field and got fascinated by machine learning projects that improve human interaction.
 I recently completed my Master of Engineering in [Information Systems Engineering](https://fhac.de/ise) where I took a deep dive into the emerging field of Reciprocal Recommender Systems (RRS) from a research and practical point of view. Bringing these views together, you can now fully [read my thesis online](https://kdevo.dev/#master-thesis) and [experiment with Chaos](https://github.com/kdevo/chaos-rrs), a first of its kind framework – with the goal to enrich the RRS landscape with novel approaches for connecting humans.
 
-After graduating, I have worked at @grid-x, a German Greentech company which makes sustainable energy more accessible to everyone.
+After graduating, I have worked at [gridX](https://github.com/grid-x), a German Greentech company which aims to make sustainable energy more accessible to everyone.
 Currently, I am travelling through South East Asia experience the rich cultures and learn. Depending on how rural the area is I'm in, I might be slow to respond.
 
 In my free time, I am developing open-source software projects, transforming ideas to their physical representation by 3D printing, tinkering with electronic stuff [and more](https://kdevo.dev/#kd)! I love the idea behind free software and I am an [Arch](https://archlinux.org/) fan.
