@@ -9,6 +9,7 @@ By the start of 2020, I extensively explored the data science field and got fasc
 I recently completed my Master of Engineering in [Information Systems Engineering](https://fhac.de/ise) where I took a deep dive into the emerging field of Reciprocal Recommender Systems (RRS) from a research and practical point of view. Bringing these views together, you can now fully [read my thesis online](https://kdevo.dev/#master-thesis) and [experiment with Chaos](https://github.com/kdevo/chaos-rrs), a first of its kind framework – with the goal to enrich the RRS landscape with novel approaches for connecting humans.
 
 After graduating, I have worked at [gridX](https://github.com/grid-x), a smart grid company which aims to make sustainable energy more accessible to everyone.
-Currently, I am travelling through South East Asia experience the rich cultures and learn. Depending on how rural the area is I'm in, I might be slow to respond.
+Recently, I travelled through South East Asia to experience the various cultures, learn and reflect from a professional and private perspective.
+I am now offering software engineering services to companies that strive to have a positive impact on our world. Interested? [Drop me a message!](https://kdevo.dev/#contact)
 
-In my free time, I am developing open-source software projects, transforming ideas to their physical representation by 3D printing, tinkering with electronic stuff [and more](https://kdevo.dev/#kd)! I love the idea behind free software and I am an [Arch](https://archlinux.org/) fan.
+In my free time, I am developing open-source software projects, transforming ideas to their physical representation by 3D printing, tinkering with electronic stuff [and more](https://kdevo.dev/#kd)! I love the idea behind free software and I use [Arch](https://archlinux.org/), btw.
